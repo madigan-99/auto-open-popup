@@ -1,3 +1,0 @@
-javascript: document.getElementById('weblogin_netid').value = "your_id";
-			      document.getElementById('weblogin_password').value = "your_password";
-			      document.getElementById('submit_button').click();
