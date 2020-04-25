@@ -11,6 +11,7 @@ students: fill stuName with github usernames, when prompted put in the static pa
 
 canvas: extract values from canvas quizes (used for Phil 120 homework to review materials)
 
+clone-repos: save in folder and run in terminal to automatically clone github repos. Open the file and fill the array with student github usernames. It will prompt you for the name of the assignment and clone into the directory you are in 
 
 How to use: copy and paste code into bookmark url bar and click when on the desired page. 
 
