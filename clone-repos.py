@@ -8,4 +8,4 @@ url = url + "-"
 for student in stuName:
 	temp = (beginning + url + student + ".git")
 	repo_url = f'{temp}'
-	os.system("git clone {}".format(repo_url))
+	os.system("git clone {}".format(repo_ur))
